@@ -1,0 +1,21 @@
+{
+  "id" : "5b8702d5-7fe0-4bab-a0f3-58a1e697fde9",
+  "numeroAfiliado" : "AF1",
+  "persona" : {
+    "id" : 1,
+    "apellido" : "Messi",
+    "nombre" : "Lionel",
+    "dni" : "87654321",
+    "calle" : {
+      "calle" : "Av. Siempre Viva",
+      "numero" : "742",
+      "localidad" : "Springfield",
+      "provincia" : "Buenos Aires"
+    },
+    "cuil" : "20-12345678-9"
+  },
+  "obraSocial" : {
+    "id" : "2f8cfc55-b76f-4390-ad10-60880c275a67",
+    "nombre" : "Osde"
+  }
+}

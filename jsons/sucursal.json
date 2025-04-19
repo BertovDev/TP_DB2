@@ -1,0 +1,59 @@
+{
+  "id" : "85669c41-d8f1-425f-88a4-44e920f0b5ea",
+  "calle" : {
+    "calle" : "Av. Siempre Viva",
+    "numero" : "742",
+    "localidad" : "Springfield",
+    "provincia" : "Buenos Aires"
+  },
+  "encargado" : {
+    "id" : 1,
+    "apellido" : "Messi",
+    "nombre" : "Lionel",
+    "dni" : "87654321",
+    "calle" : {
+      "calle" : "Av. Siempre Viva",
+      "numero" : "742",
+      "localidad" : "Springfield",
+      "provincia" : "Buenos Aires"
+    },
+    "cuil" : "20-12345678-9"
+  },
+  "empleados" : [ {
+    "id" : 1,
+    "apellido" : "Messi",
+    "nombre" : "Lionel",
+    "dni" : "87654321",
+    "calle" : {
+      "calle" : "Av. Siempre Viva",
+      "numero" : "742",
+      "localidad" : "Springfield",
+      "provincia" : "Buenos Aires"
+    },
+    "cuil" : "20-12345678-9"
+  }, {
+    "id" : 4,
+    "apellido" : "Berto",
+    "nombre" : "Bautista",
+    "dni" : "43199443",
+    "calle" : {
+      "calle" : "Av. Siempre Viva",
+      "numero" : "742",
+      "localidad" : "Springfield",
+      "provincia" : "Buenos Aires"
+    },
+    "cuil" : "20-43199443-8"
+  }, {
+    "id" : 32,
+    "apellido" : "nes",
+    "nombre" : "Jijo",
+    "dni" : "43192243",
+    "calle" : {
+      "calle" : "Av. Siempre Viva",
+      "numero" : "742",
+      "localidad" : "Springfield",
+      "provincia" : "Buenos Aires"
+    },
+    "cuil" : "20-43192243-8"
+  } ]
+}

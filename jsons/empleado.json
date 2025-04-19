@@ -1,0 +1,13 @@
+{
+  "id" : 1,
+  "apellido" : "Messi",
+  "nombre" : "Lionel",
+  "dni" : "87654321",
+  "calle" : {
+    "calle" : "Av. Siempre Viva",
+    "numero" : "742",
+    "localidad" : "Springfield",
+    "provincia" : "Buenos Aires"
+  },
+  "cuil" : "20-12345678-9"
+}

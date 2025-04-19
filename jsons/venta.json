@@ -1,0 +1,116 @@
+{
+  "id" : "b0437dde-b822-46cc-918a-9b4f8120c9ca",
+  "numeroTicket" : "0001-00000001",
+  "puntoVenta" : "0001",
+  "fecha" : 1745030432539,
+  "total" : 5000.0,
+  "formaPago" : "tarjeta",
+  "cliente" : {
+    "id" : 1,
+    "apellido" : "Perez",
+    "nombre" : "Juan",
+    "dni" : "12345678",
+    "calle" : {
+      "calle" : "Calle Falsa",
+      "numero" : "12223",
+      "localidad" : "Springfield",
+      "provincia" : "Provincia X"
+    }
+  },
+  "empleadoAtiende" : {
+    "id" : 1,
+    "apellido" : "Messi",
+    "nombre" : "Lionel",
+    "dni" : "87654321",
+    "calle" : {
+      "calle" : "Av. Siempre Viva",
+      "numero" : "742",
+      "localidad" : "Springfield",
+      "provincia" : "Buenos Aires"
+    },
+    "cuil" : "20-12345678-9"
+  },
+  "empleadoCobra" : {
+    "id" : 2,
+    "apellido" : "Berto",
+    "nombre" : "Bautista",
+    "dni" : "43199443",
+    "calle" : {
+      "calle" : "Suipacha",
+      "numero" : "119",
+      "localidad" : "Lanus",
+      "provincia" : "Buenos Aires"
+    },
+    "cuil" : "20-43199443-8"
+  },
+  "sucursal" : {
+    "id" : "5264dbaa-9a5c-47e0-8810-80bf8ab98574",
+    "calle" : {
+      "calle" : "Av. Central",
+      "numero" : "1000",
+      "localidad" : "Springfield",
+      "provincia" : "Provincia X"
+    },
+    "encargado" : {
+      "id" : 1,
+      "apellido" : "Messi",
+      "nombre" : "Lionel",
+      "dni" : "87654321",
+      "calle" : {
+        "calle" : "Av. Siempre Viva",
+        "numero" : "742",
+        "localidad" : "Springfield",
+        "provincia" : "Buenos Aires"
+      },
+      "cuil" : "20-12345678-9"
+    },
+    "empleados" : [ {
+      "id" : 1,
+      "apellido" : "Messi",
+      "nombre" : "Lionel",
+      "dni" : "87654321",
+      "calle" : {
+        "calle" : "Av. Siempre Viva",
+        "numero" : "742",
+        "localidad" : "Springfield",
+        "provincia" : "Buenos Aires"
+      },
+      "cuil" : "20-12345678-9"
+    }, {
+      "id" : 2,
+      "apellido" : "Berto",
+      "nombre" : "Bautista",
+      "dni" : "43199443",
+      "calle" : {
+        "calle" : "Suipacha",
+        "numero" : "119",
+        "localidad" : "Lanus",
+        "provincia" : "Buenos Aires"
+      },
+      "cuil" : "20-43199443-8"
+    } ]
+  },
+  "detalles" : [ {
+    "id" : "b27ddf3f-fe27-49e6-b699-bfb193f46393",
+    "producto" : {
+      "id" : "9afbd0fd-8eff-4dd8-aba7-0667278533b7",
+      "descripcion" : "Ibuprofeno 400mg",
+      "tipo" : "medicamento",
+      "precio" : 1500.0
+    },
+    "cantidad" : 2,
+    "precioUnitario" : 1500.0,
+    "total" : 3000.0
+  }, {
+    "id" : "aec247bb-69c4-4202-9939-f2ca2676c26e",
+    "producto" : {
+      "id" : "2bbfc423-65e8-4ce1-8f08-9206b12e85ef",
+      "descripcion" : "Shampoo",
+      "tipo" : "perfumería",
+      "precio" : 2000.0
+    },
+    "cantidad" : 1,
+    "precioUnitario" : 2000.0,
+    "total" : 2000.0
+  } ]
+}
